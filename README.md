@@ -1,4 +1,5 @@
-#node-es6-experiments
+node-es6-experiments
+--
 
 This project have goal explore specification es6 whit node.js
 
